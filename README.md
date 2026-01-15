@@ -2,6 +2,13 @@
 
 ## 1. About Me
 Hello! My name is WU QI. I am a student currently studying Cyber Security. I am passionate about network security and solving technical challenges.
+## 2. Technical Skills
+* **Networking:** Cisco Packet Tracer, TCP/IP, Subnetting, Syslog, NetFlow.
+* **Operating Systems:** Linux (Ubuntu command line), Windows.
+* **Security Tools:** Nmap, Basic Network Auditing tools.
+## 3. Certifications and Training
+* **Coursework:** WQE7001 Cyber Security (University of Malaya).
+* **Workshops:** Practical training in Network Logging and Linux Security Troubleshooting.
 ## 4. Project Experience
 ### Project 1: Packet Tracer - Logging from Multiple Sources
 * **Objective:** configured Syslog, NTP, and NetFlow to monitor network events effectively and timestamp logs accurately.
