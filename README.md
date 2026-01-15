@@ -20,6 +20,13 @@ Hello! My name is WU QI. I am a student currently studying Cyber Security. I am 
 * **Tools:** Linux Terminal (Ubuntu), ip utilities.
 * **Methodology:** Used `ip addr` to check interface status, `ip route` to verify gateway settings, and `ping` to test connectivity. Identified a missing default gateway.
 * **Outcome:** Restored network access and verified stable connection to external servers.
+## 5. Learning Journey
+Throughout this course, I have gained a solid foundation in cybersecurity principles and network defense.
+* **Progress:** I have significantly improved my practical skills in configuring network devices (switches/routers) and navigating Linux environments via the command line.
+* **Challenges:** Initially, I found command-line interfaces (CLI) challenging compared to graphical interfaces. However, through assignments like network troubleshooting, I have become more confident and efficient.
+* **Future Plans:** I aim to deepen my knowledge in penetration testing and learn more about automating security tasks with Python.
+## 6. Career Objective
+My goal is to start a career as a Cybersecurity Analyst or Network Security Engineer. I aspire to work in a dynamic environment where I can apply my skills to secure enterprise infrastructures and mitigate emerging cyber threats.
 ## 7. Contact Information
 - **Email:** 24212997@siswa.um.edu.my
 - **GitHub:[24212997](https://github.com/24212997-coder)
